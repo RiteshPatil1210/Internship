@@ -7,7 +7,7 @@ return a+b;
     }
 }
 
-public class Main {
+ class Main1 {
     public static void main(String args[]){
     Calculator c=new Calculator();
     System.out.println("Additon:"+c.add(5,20));

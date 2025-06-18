@@ -14,7 +14,7 @@ class HDFC extends bank{
         System.out.println("Interest Rate of HDFC:"+j+"%");
     }
     }
-public class Main1 {
+class Main {
     public static void main(String args[]){
         HDFC h=new HDFC();
         SBI s=new SBI();

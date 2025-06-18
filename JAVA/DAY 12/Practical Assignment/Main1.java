@@ -15,7 +15,7 @@ class Cat extends Animal{
 System.out.println("Meow Meow");
 }
 }
-class Main{
+public class Main1{
  public static void main(String args[]){
    Cat c=new Cat();
    c.makesound();

@@ -26,7 +26,7 @@ class Car extends Vehicle{
 	}
 }
 
-public class Main1 {
+public class Main2 {
 
 	public static void main(String[] args) {
 		Bike b=new Bike();

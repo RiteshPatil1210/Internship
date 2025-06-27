@@ -22,8 +22,8 @@ this.al=al;
         super.display();
         System.out.println("Admin level:"+al);
  }
-    }
-    class Main{
+}
+   class Main{
         public static void main (String args[]){
  Admin a=new Admin("Ritesh","patilritesh998@gmail.com",5);
 a.display1();

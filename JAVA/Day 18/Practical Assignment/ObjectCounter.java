@@ -10,8 +10,7 @@ public class ObjectCounter {
     public void displayCount() {
         System.out.println("Objects created so far: " + count);
     }
-
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         ObjectCounter obj1 = new ObjectCounter();
         ObjectCounter obj2 = new ObjectCounter();
         ObjectCounter obj3 = new ObjectCounter();
